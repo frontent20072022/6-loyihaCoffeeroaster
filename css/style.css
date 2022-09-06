@@ -53,12 +53,15 @@ img{
 
 
 /* Header */
-.site-header {
+.site-header-hero-wrapper{
   background-image: url(../img/header-bg.png);
   background-blend-mode: overlay;
   background-color:#F3D7B7;
-  margin-bottom: 20px;
 }
+
+/* .site-header {
+  margin-bottom: 20px;
+} */
 .site-header-container{
   width: 100%;
   max-width: 1340px;
